@@ -1,0 +1,6 @@
+# VSCode ignore
+.vscode
+
+# python
+__pycache__
+*.pyc
